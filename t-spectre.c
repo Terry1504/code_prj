@@ -1,4 +1,6 @@
 /*
+	CPU security issue
+
 bounds check bypass (CVE-2017-5753)
 branch target injection (CVE-2017-5715)
   https://spectreattack.com/spectre.pdf?spm=5176.7764951.2.3.Ix3RDw&file=spectre.pdf
